@@ -1,5 +1,5 @@
 
-- #Sử dụng dataset Cifar10 (link download: https://github.com/cyizhuo/CIFAR-10-dataset)
+# - Sử dụng dataset Cifar10 (link download: https://github.com/cyizhuo/CIFAR-10-dataset)
 
 Trong file jupyter notebook thực hiện tuần tự các mục từ trên xuống như sau:
 - Tạo 1 class dataloader nhận input là folder ảnh (train hoặc test) đó
